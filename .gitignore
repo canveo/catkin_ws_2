@@ -1,0 +1,16 @@
+.cproject
+.project
+.pydevproject
+cmake_install.cmake
+build/
+bin/
+lib/
+msg_gen/
+
+.vscode
+/src/turtlebot3
+/src/turtlebot3_msgs
+/src/turtlebot3_simulations
+
+
+.vscode/browse.vc.db
